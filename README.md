@@ -43,7 +43,7 @@ After opening the project, you'll see a responsive layout where elements adjust 
 
 ## Live Demo
 
-[View Online](https://gdhiraj030.github.io/RosemaryDesign-grid-fully-responsive/)
+[View Online](https://gdhiraj030.github.io/RosemaryDesign-css-grid/)
 
 ## License
 
